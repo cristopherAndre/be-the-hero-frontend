@@ -31,7 +31,7 @@
 
 - :computer: [Be The Hero Web Site](https://github.com/cristopherAndre/be-the-hero-frontend)
 - :iphone: [Be the Hero Mobile App](https://github.com/cristopherAndre/be-the-hero-mobile)
-- :globe_with_meridians: [Be The Hero API](https://github.com/cristopherAndre/be-the-hero-backend)
+- :globe_with_meridians: [Be The Hero API](https://github.com/cristopherAndre/be-the-hero-backend){:target="_blank"}
 
 ### Starting
 

@@ -38,4 +38,6 @@
     yarn
     yarn start
 
+---
 
+Created by [Cristopher André](https://cristopherandre.com) && [Rocketseat](https://rocketseat.com.br).

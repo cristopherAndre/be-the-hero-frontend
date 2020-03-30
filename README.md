@@ -31,13 +31,13 @@
 
 - :computer: [Be The Hero Web Site](https://github.com/cristopherAndre/be-the-hero-frontend)
 - :iphone: [Be the Hero Mobile App](https://github.com/cristopherAndre/be-the-hero-mobile)
-- :globe_with_meridians: [Be The Hero API](https://github.com/cristopherAndre/be-the-hero-backend){:target="_blank"}
+- :globe_with_meridians: [Be The Hero API](https://github.com/cristopherAndre/be-the-hero-backend)
 
-### Starting
+### Starting Projects
 
     yarn
     yarn start
 
 ---
 
-Created by [Cristopher André](https://cristopherandre.com) && [Rocketseat](https://rocketseat.com.br).
+Created by [Cristopher André](https://cristopherandre.com) & [Rocketseat](https://rocketseat.com.br).

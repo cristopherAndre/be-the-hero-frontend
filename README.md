@@ -23,14 +23,15 @@
 - Cors
 
 ### **Live Demo**
+
 - :computer: [Be The Hero Web Site](https://be-the-hero-frontend.herokuapp.com/)
 - :iphone: [Be The Hero Mobile App](https://expo.io/@cristopherandre/bethehero/)
 
 ### **Projects**
 
-- [Be The Hero API](https://github.com/cristopherAndre/be-the-hero-backend)
-- [Be The Hero Web Site](https://github.com/cristopherAndre/be-the-hero-frontend)
-- [Be the Hero Mobile App](https://github.com/cristopherAndre/be-the-hero-mobile)
+- :computer: [Be The Hero Web Site](https://github.com/cristopherAndre/be-the-hero-frontend)
+- :iphone: [Be the Hero Mobile App](https://github.com/cristopherAndre/be-the-hero-mobile)
+- :globe_with_meridians: [Be The Hero API](https://github.com/cristopherAndre/be-the-hero-backend)
 
 ### Starting
 

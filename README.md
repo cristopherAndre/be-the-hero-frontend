@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img alt="Be The Hero" title="Bethehero" src=".github/logo.png"/><br>
-  <b>:purple_heart: Be The Hero :purple_heart:</b>
-</h1>
+<h4 align="center">
+  <img alt="Be The Hero" title="Bethehero" src=".github/logo.png" width="250px"/><br>
+  <b>:purple_heart: Be The Hero! :purple_heart:</b>
+</h4>
 
 <p>Be The Hero is an application where charities can register their causes and request assistance in money, donors can list the causes and contact the charity if they want to help in the cause.</p>
 
